@@ -1,0 +1,15 @@
+# --- Arquivos com Senhas (IMPORTANTÍSSIMO) ---
+config.py
+secure-connect-*.zip
+
+# --- Lixo do Python (Não precisa subir) ---
+__pycache__/
+*.pyc
+
+# --- Ambientes Virtuais (Se usar) ---
+venv/
+env/
+.env
+
+# --- Arquivos de Sistema ---
+.DS_Store
